@@ -9,7 +9,7 @@ The end goal: build skills and a working prototype that shows how **AI can suppo
 
 ---
 
-## ✅ **Steps You’ve Completed So Far**
+## ✅ **Steps I’ve Completed So Far**
 
 ### **Week 1: Foundations**
 
@@ -70,9 +70,8 @@ The end goal: build skills and a working prototype that shows how **AI can suppo
 
 ---
 
-## 📌 **Where You Are Now**
-
-You’ve successfully completed:
+## 📌 **Where I am Now**
+I’ve successfully completed:
 
 -  ✅ Week 1: Setup & Dataset Familiarization
 -  ✅ Week 2, Day 1: Extract and plot a daily Tmin time series (Asaba, 2025)
@@ -82,7 +81,7 @@ You’ve successfully completed:
 
 ---
 
-## 🎯 **Where You’re Going Next**
+## 🎯 **Where I'm Going Next**
 
 ### **Immediate Next Step (Week 2, Day 2)**
 
@@ -128,12 +127,8 @@ You’ve successfully completed:
 
 # 📝 **Summary in Plain Words**
 
-You’ve set up your coding environment, loaded a real NOAA dataset, and successfully plotted a **year-long Tmin series for Asaba**. Along the way, you tackled tricky issues with **time decoding**, **grid selection**, and **plot formatting** — and you solved them like a scientist would.
+I’ve set up your coding environment, loaded a real NOAA dataset, and successfully plotted a **year-long Tmin series for Asaba**. Along the way, you tackled tricky issues with **time decoding**, **grid selection**, and **plot formatting** — and you solved them like a scientist would.
 
-Right now, you’re standing at the door of **Week 2, Day 2**: learning how to **compress daily data into monthly climate summaries**, which is exactly how real climatologists detect **seasonal cycles** and compare across years.
+Right now, I'm learning how to **compress daily data into monthly climate summaries**, which is exactly how real climatologists detect **seasonal cycles** and compare across years.
 
----
-
-👉 Question for you, Jadon:
-Would you like me to now **start unfolding the meteorological theory of monthly averages** (why we compute them, what they show), before we touch any code?
 
